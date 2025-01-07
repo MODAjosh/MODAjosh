@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @MODAjosh  
-I’m the lead instructor at Missouri Drone Academy (MDA), where we prepare students for careers in drone piloting, geospatial analysis, and GIS.  
+I’m the lead instructor at Missouri Drone Academy (MODA), where we prepare students for careers in drone piloting, geospatial analysis, and GIS.  
 
 👀 I’m interested in exploring the intersection of drone technology, geospatial data, and architectural preservation. I’m passionate about leveraging drones for education and advancing our understanding of architectural heritage through precise data collection and analysis.  
 
